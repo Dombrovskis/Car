@@ -1,0 +1,39 @@
+.mid {
+  width: 450px;
+  height: 100px;
+  background-color: crimson;
+  /* margin-top: 220px; */
+  border-radius: 10px 10px 10px 100px;
+  border: 5px solid rgb(61, 9, 9);
+}
+.up {
+  width: 300px;
+  height: 65px;
+  background-color: cyan;
+  margin-left: 100px;
+  border-radius: 100px 10px 0 0;
+  /* margin-bottom: 10px ; */
+  margin-top: 130px;
+  border: 5px solid rgb(16, 148, 224);
+}
+.rwheel {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+  top: 250px;
+  left: 330px;
+  border-radius: 50px;
+  border: 1px solid black;
+}
+
+.fwheel {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+  top: 250px;
+  left: 130px;
+  border-radius: 50px;
+  border: 1px solid black;
+}
